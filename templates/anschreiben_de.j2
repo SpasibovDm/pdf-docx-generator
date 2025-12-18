@@ -1,0 +1,20 @@
+{{ sender.name }}
+{{ sender.address }}
+Tel.: {{ sender.phone }} | {{ sender.email }}
+{{ sender.links }}
+
+{{ receiver.company }}
+{{ receiver.person }}
+{{ receiver.address }}
+
+{{ date_city }}
+
+{{ subject }}
+
+{% for p in body_paragraphs -%}
+{{ p }}
+
+{% endfor -%}
+{{ closing }}
+
+{{ signature_name }}
