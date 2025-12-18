@@ -1,0 +1,24 @@
+{
+  "date_city": "Hamburg, 18.12.2025",
+  "sender": {
+    "name": "Dmytro Spasibov",
+    "address": "Kaptaubenwiete 57b\n22119 Hamburg",
+    "phone": "+49 176 20495917",
+    "email": "dmytro.spasibov@gmail.com",
+    "links": "Portfolio: https://linktr.ee/DmitriSpasDev"
+  },
+  "receiver": {
+    "company": "citema systems GmbH",
+    "person": "Frau Eva-Maria Klotz",
+    "address": "Möschenfeld 3a\n85630 Grasbrunn"
+  },
+  "subject": "Bewerbung als Softwareentwickler C++ (m/w/d) – Maritime Systeme",
+  "body_paragraphs": [
+    "hiermit bewerbe ich mich auf die Position als Softwareentwickler C++ (m/w/d) – Maritime Systeme.",
+    "Ich bringe Erfahrung in IT, IT-Security und strukturierter Umsetzung mit Fokus auf Qualität und Zuverlässigkeit.",
+    "Gern erläutere ich Details in einem persönlichen Gespräch."
+  ],
+  "closing": "Mit freundlichen Grüßen",
+  "signature_name": "Dmytro Spasibov",
+  "signature_image": "assets/signature.png"
+}
