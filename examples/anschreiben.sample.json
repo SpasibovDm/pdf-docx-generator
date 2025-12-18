@@ -1,10 +1,10 @@
 {
   "date_city": "Hamburg, 18.12.2025",
   "sender": {
-    "name": "Dmytro Spasibov",
-    "address": "Kaptaubenwiete 57b\n22119 Hamburg",
-    "phone": "+49 176 20495917",
-    "email": "dmytro.spasibov@gmail.com",
+    "name": "Max Mustermann",
+    "address": "Musterstraße 1\n12345 Musterstadt",
+    "phone": "+49 000 0000000",
+    "email": "max.mustermann@example.com",
     "links": "Portfolio: https://linktr.ee/DmitriSpasDev"
   },
   "receiver": {
