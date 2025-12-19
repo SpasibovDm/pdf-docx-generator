@@ -1,24 +1,24 @@
 {
   "date_city": "Hamburg, 18.12.2025",
   "sender": {
-    "name": "Max Mustermann",
+    "name": "Dmitri Spasibov",
     "address": "Musterstraße 1\n12345 Musterstadt",
-    "phone": "+49 000 0000000",
-    "email": "max.mustermann@example.com",
-    "links": "Portfolio: https://linktr.ee/DmitriSpasDev"
+    "phone": "+49 151 00000000",
+    "email": "dmitri.spasibov@example.com",
+    "links": "LinkedIn: https://www.linkedin.com/in/example | GitHub: https://github.com/example"
   },
   "receiver": {
-    "company": "citema systems GmbH",
-    "person": "Frau Eva-Maria Klotz",
-    "address": "Möschenfeld 3a\n85630 Grasbrunn"
+    "company": "Beispiel Systems GmbH",
+    "person": "Frau Erika Beispiel",
+    "address": "Beispielweg 3a\n85630 Beispielstadt"
   },
   "subject": "Bewerbung als Softwareentwickler C++ (m/w/d) – Maritime Systeme",
   "body_paragraphs": [
     "hiermit bewerbe ich mich auf die Position als Softwareentwickler C++ (m/w/d) – Maritime Systeme.",
-    "Ich bringe Erfahrung in IT, IT-Security und strukturierter Umsetzung mit Fokus auf Qualität und Zuverlässigkeit.",
+    "Ich bringe Erfahrung in Softwareentwicklung, IT-Security und strukturierter Umsetzung mit Fokus auf Qualität und Zuverlässigkeit.",
     "Gern erläutere ich Details in einem persönlichen Gespräch."
   ],
   "closing": "Mit freundlichen Grüßen",
-  "signature_name": "Dmytro Spasibov",
-  "signature_image": "assets/signature.png"
+  "signature_name": "Dmitri Spasibov",
+  "signature_image": ""
 }
