@@ -1,4 +1,4 @@
-![Demo](assets/demo.png)
+<img src="assets/demo.png" alt="Demo PDF preview" width="420">
 ## What it does
 
 Generate **PDF & DOCX** documents from structured **JSON** using **Jinja2 templates**.
