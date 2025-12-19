@@ -1,4 +1,4 @@
-<img src="assets/demo.png" alt="Demo PDF preview" width="420">
+<img src="assets/demo.png" alt="Demo PDF preview" width="400">
 ## What it does
 
 Generate **PDF & DOCX** documents from structured **JSON** using **Jinja2 templates**.
