@@ -7,3 +7,22 @@ venv/
 .idea/
 output/
 output/
+
+.venv/
+output/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# generated
+output/
+
+# macOS
+.DS_Store
