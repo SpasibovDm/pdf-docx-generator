@@ -1,5 +1,14 @@
-<img src="assets/demo.png" alt="Demo PDF preview" width="400">
-## What it does
+<details>
+  <summary><b>Demo output (click to expand)</b></summary>
+  <p align="center">
+    <a href="assets/demo.png">
+      <img src="assets/demo.png" width="700" alt="Demo output (PDF)">
+    </a>
+  </p>
+</details>
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Release](https://img.shields.io/github/v/release/SpasibovDm/pdf-docx-generator)## What it does
 
 Generate **PDF & DOCX** documents from structured **JSON** using **Jinja2 templates**.
 
