@@ -8,7 +8,8 @@
 </details>
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Release](https://img.shields.io/github/v/release/SpasibovDm/pdf-docx-generator)## What it does
+![Release](https://img.shields.io/github/v/release/SpasibovDm/pdf-docx-generator)
+## What it does
 
 Generate **PDF & DOCX** documents from structured **JSON** using **Jinja2 templates**.
 
