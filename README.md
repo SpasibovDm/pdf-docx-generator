@@ -1,3 +1,4 @@
+![Demo](assets/demo.png)
 ## What it does
 
 Generate **PDF & DOCX** documents from structured **JSON** using **Jinja2 templates**.
