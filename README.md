@@ -22,7 +22,7 @@ Generate **PDF & DOCX** documents from structured **JSON** using **Jinja2** temp
 ## One-liner example (copy-paste)
 
 ```bash
-PYTHONPATH=src python src/docgen/cli.py --data examples/anschreiben.sample.json --template templates/anschreiben_de.j2 --outdir output --name demo```
+PYTHONPATH=src python src/docgen/cli.py --data examples/anschreiben.sample.json --template templates/anschreiben_de.j2 --outdir output --name demo
 
 ## Project structure
 
