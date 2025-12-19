@@ -4,11 +4,15 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Release](https://img.shields.io/github/v/release/SpasibovDm/pdf-docx-generator?label=release)
 
-<p align="center">
-  <a href="assets/demo.png">
-    <img src="assets/demo.png" width="320" alt="Demo output (PDF)">
-  </a>
-</p>
+<details>
+  <summary><b>Demo output (click to expand)</b></summary>
+  <br />
+  <p align="center">
+    <a href="assets/demo.png">
+      <img src="assets/demo.png" width="420" alt="Demo output (PDF)">
+    </a>
+  </p>
+</details>
 
 ## What it does
 
