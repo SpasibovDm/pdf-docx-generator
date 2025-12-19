@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="assets/demo.png">
-    <img src="assets/demo.png" width="420" alt="Demo output (PDF)">
+    <img src="assets/demo.png" width="320" alt="Demo output (PDF)">
   </a>
 </p>
 
